@@ -1,0 +1,16 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\obj\Debug\ParameterProject.frmParameter.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\obj\Debug\ParameterProject.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\obj\Debug\ParameterProject.csproj.GenerateResource.Cache
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\bin\Debug\ParameterProject.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\bin\Debug\ParameterProject.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\obj\Debug\ParameterProject.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\ParameterProject\obj\Debug\ParameterProject.pdb
+D:\MOSCARE\ParameterProject\ParameterProject\obj\Debug\ParameterProject.exe
+D:\MOSCARE\ParameterProject\ParameterProject\obj\Debug\ParameterProject.pdb
+D:\MOSCARE\ParameterProject\ParameterProject\bin\Debug\ParameterProject.exe
+D:\MOSCARE\ParameterProject\ParameterProject\bin\Debug\ParameterProject.pdb
+D:\MOSCARE\ParameterProject\ParameterProject\obj\Debug\ResolveAssemblyReference.cache
+D:\MOSCARE\ParameterProject\ParameterProject\obj\Debug\ParameterProject.frmParameter.resources
+D:\MOSCARE\ParameterProject\ParameterProject\obj\Debug\ParameterProject.Properties.Resources.resources
+D:\MOSCARE\ParameterProject\ParameterProject\obj\Debug\ParameterProject.csproj.GenerateResource.Cache
